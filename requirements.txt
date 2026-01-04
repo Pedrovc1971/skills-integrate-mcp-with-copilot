@@ -1,2 +1,1 @@
-fastapi
-uvicorn
+fastapi\nuvicorn\npydantic[email]\npython-jose[cryptography]\nPyJWT\npasslib[bcrypt]\npython-multipart\n
